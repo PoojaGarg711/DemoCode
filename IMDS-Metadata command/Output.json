@@ -1,0 +1,71 @@
+"vhd":  {
+                                                                      "uri":  ""
+                                                                  },
+                                                          "writeAcceleratorEnabled":  "false"
+                                                      },
+                                           "resourceDisk":  {
+                                                                "size":  "76800"
+                                                            }
+                                       },
+                    "subscriptionId":  "048836d9-7ad9-406f-980a-fb00b6d9f983",
+                    "tags":  "Application:Virginia Jumpbox;CreatedBy:pooja.garg@accenture.com;Description:Infrastructure: Jumpbox;Environment:Prod;Owner:Azure Team;Timestamp:03/30/2023",
+                    "tagsList":  [
+                                     {
+                                         "name":  "Application",
+                                         "value":  "Virginia Jumpbox"
+                                     },
+                                     {
+                                         "name":  "CreatedBy",
+                                         "value":  "pooja.garg@accenture.com"
+                                     },
+                                     {
+                                         "name":  "Description",
+                                         "value":  "Infrastructure: Jumpbox"
+                                     },
+                                     {
+                                         "name":  "Environment",
+                                         "value":  "Prod"
+                                     },
+                                     {
+                                         "name":  "Owner",
+                                         "value":  "Azure Team"
+                                     },
+                                     {
+                                         "name":  "Timestamp",
+                                         "value":  "03/30/2023"
+                                     }
+                                 ],
+                    "userData":  "",
+                    "version":  "17763.4131.230311",
+                    "vmId":  "a374c4dc-b423-45a8-898f-cb03479d6e70",
+                    "vmScaleSetName":  "",
+                    "vmSize":  "Standard_D2ads_v5",
+                    "zone":  ""
+                },
+    "network":  {
+                    "interface":  [
+                                      {
+                                          "ipv4":  {
+                                                       "ipAddress":  [
+                                                                         {
+                                                                             "privateIpAddress":  "10.224.17.4",
+                                                                             "publicIpAddress":  ""
+                                                                         }
+                                                                     ],
+                                                       "subnet":  [
+                                                                      {
+                                                                          "address":  "10.224.17.0",
+                                                                          "prefix":  "24"
+                                                                      }
+                                                                  ]
+                                                   },
+                                          "ipv6":  {
+                                                       "ipAddress":  [
+
+                                                                     ]
+                                                   },
+                                          "macAddress":  "001DD808DBCE"
+                                      }
+                                  ]
+                }
+}
