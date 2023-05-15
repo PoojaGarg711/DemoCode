@@ -1,0 +1,33 @@
+const bread = [
+  { id: 1,
+    type: 'brown',
+    pets: [
+      { id: 1,
+        name: 'britania',
+        breed: 'wholewheat'
+      }, 
+      { id: 2,
+        name: 'bonn',
+        breed: 'brown'
+      }
+    ]  
+  },
+  { id: 2,
+    type: 'white',
+    pets: [
+      { id: 3,
+        name: 'britania',
+        breed: 'white'
+      }
+    ]
+  },
+  { id: 3,
+    type: 'multigrain',
+    pets: [
+      { id: 4,
+        name: 'bonn',
+        breed: 'multigrain'
+      }
+    ]
+  }
+]
